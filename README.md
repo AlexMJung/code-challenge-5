@@ -16,17 +16,25 @@ after which you can see it live at localhost:3000 in your browser
 ## Built with
 
 Angular
+
 Html 5
+
 CSS 3
+
 Mongoose
+
 MongoDB
-Express
+
 
 ## Stretch goals
 [ ] add a user login feature and take away the name function
+
 [ ] add a filestack to allow people to upload photos for the message posts
+
 [ ] allow users to edit a post
+
 [ ] add css utilizing Sass 
+
 [ ] host this on heroku
 
 ## Authors 
