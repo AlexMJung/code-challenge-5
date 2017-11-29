@@ -41,4 +41,4 @@ MongoDB
 Alex Jung
 
 ## Acknowldgements
-Prime Digital Academy for building some of the base of this.  
+Prime Digital Academy  
